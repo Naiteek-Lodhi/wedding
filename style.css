@@ -22,7 +22,7 @@ button {
     padding: 10px;
     margin-bottom: 10px;
     background-color: green;
-    width: 10%;
+    width: 30%;
 }
 
 label {
@@ -51,6 +51,6 @@ input {
     }
 
     button {
-        width: 100%; /* Full width for buttons on smaller screens */
+        width: 50%; /* Full width for buttons on smaller screens */
     }
 }
